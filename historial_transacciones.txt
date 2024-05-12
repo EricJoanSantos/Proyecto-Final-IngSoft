@@ -1,0 +1,8 @@
+Ingreso: $10000.0 - Descripción: Venta - Fecha: 12-10-23
+Gasto: $500.0 - Descripción: Comida - Fecha: 12-10-23
+Ingreso: $1000.0 - Descripción:  - Fecha: 
+Gasto: $500.0 - Descripción:  - Fecha: 
+Ingreso: $1000.0 - Descripción:  - Fecha: 
+Gasto: $2234.0 - Descripción:  - Fecha: 
+Ingreso: $234.0 - Descripción:  - Fecha: 
+Gasto: $1231.0 - Descripción:  - Fecha: 
